@@ -2,7 +2,7 @@
 
 **Junior Software Engineer** 
 <ul style=list-style-type: none>
-  <li> 27 year old 🧓 </li>
+  <li> 29 year old 🧓 </li>
   <li> Portugal 🇵🇹 </li>
   <li> With a strong passion for programming 🖥️</li>
   <li> Dog lover 🐕</li>
